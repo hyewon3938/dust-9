@@ -1,8 +1,8 @@
 <h1 align="center">미세먼지 서비스</h1>
 <p align="center"><strong>☁ 미세먼지 정보를 제공하는 모바일 웹 서비스입니다 ☁</strong></p>
 <br>
-<p align="center"><img src="https://user-images.githubusercontent.com/58355499/98917649-fdef7d00-250f-11eb-9b98-8f819ae4103b.gif"/>
-  <img src="https://user-images.githubusercontent.com/58355499/98918533-12804500-2511-11eb-89fc-8018243253df.gif"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/58355499/98921222-5e80b900-2514-11eb-8fd3-917011ce9f48.gif"/>
+  <img src="https://user-images.githubusercontent.com/58355499/98921188-57f24180-2514-11eb-92ec-eb6b2d53a4bd.gif"/></p>
 <br>
 <br>
 
