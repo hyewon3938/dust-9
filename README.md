@@ -41,6 +41,7 @@
 <br>
 
 ## 🚩설계
+- [이슈 링크](https://github.com/codesquad-member-2020/dust-9/issues?q=is%3Aopen+is%3Aissue)
 - 폴더구조
 ```
 .
